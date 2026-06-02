@@ -29,6 +29,7 @@ import segment_boundaries as boundary
 import src.analyseDensity as density
 import src.layerVisualize as layer_visual
 from src.layerVisualize import assign_layers_to_mask
+import json
 
 
 # ── Cellpose parameter defaults for the automatic pipeline ──────────────────────
